@@ -13,7 +13,7 @@ router.get('/metrics/meetings/:meetingId/participants', (req, res) => {
                 {
                     "id": "d52f19c548b88490b5d16fcbd38",
                     "user_id": "32dsfsd4g5gd",
-                    "user_name": "Grzegorz Kozak",
+                    "user_name": "Grzegorz Kozak Dlugie Nazwiskobardzo",
                     "device": "WIN",
                     "ip_address": "127.0.0.1",
                     "location": "New York",
